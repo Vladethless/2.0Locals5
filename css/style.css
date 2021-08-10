@@ -244,6 +244,9 @@ ul.sub-menu li a{padding: 10px 13px !important;}
 .slide-text-comm p{font-size: 47px;color: #fff;font-family: 'Montserrat', sans-serif;font-weight: 700;text-transform: uppercase;margin-bottom: .5rem;
     font-weight: 600;
     line-height: 1.2;}
+.slide-2 p{font-size: 47px;color: #fff;font-family: 'Montserrat', sans-serif;font-weight: 700;text-transform: uppercase;margin-bottom: .5rem;
+    font-weight: 600;
+    line-height: 1.2;}
 .type_two_position{position: absolute;bottom: 67px;width: 100%;box-sizing: border-box;}
 .slider_menu_heading ul.sub_link {}
 .slider_menu_heading ul.sub_link li{display: inline-block;}
