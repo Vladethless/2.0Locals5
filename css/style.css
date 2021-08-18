@@ -763,7 +763,7 @@ div#myBtnContainer {text-align: center;padding: 0 0 25px;}
 .tabs ul.nav li.nav-item a::after {width: 35px;top: 15px;}
 .slider_part_two .slider_two_set {border: 10px solid #f5f3f8;height: 350px;}
 .slider_two_pad {padding: 20px 20px;}
-.slide-text-comm h1{font-size: 22px;}
+.slide-text-comm p{font-size: 22px;}
 .slider_three_pad{padding: 90px  20px 0;}
 .type_three_position {position: absolute;top: 20px;left: 20px;}
 .slide_button {position: absolute;bottom: 25px;left: 20px;}
@@ -1335,7 +1335,7 @@ p {font-size: 14px;line-height: 1.6em;}
     .slider_part_two .type_two_position {
         position: static;
     }
-    .slider_part_two .slide-text-comm h1 {
+    .slider_part_two .slide-text-comm p {
         font-size: 6vh;
         margin-bottom: 6vh;
     }
