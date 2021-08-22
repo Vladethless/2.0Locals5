@@ -612,12 +612,12 @@ END PORTFOLIO
 .footer_sec_link li a{color: #f1f1f5 !important;font-size: 12px;font-family: 'Montserrat', sans-serif;font-weight: 500; text-transform: uppercase;padding: 66px 12px;display: block;}
 .footer_sec_link li a:hover{    color: #f66639 !important;font-weight: 600;}
 .footer_archeton{text-align: center;max-width: 460px;margin: auto;padding: 45px 0 0 0;}
-.footer_archeton h4{font-size: 30px;color: #fff;font-family: 'Montserrat', sans-serif;font-weight: 700;position: relative;padding-bottom: 52px;}
-.footer_archeton h4::after{display: block;content: "";position: absolute;width: 110px;height: 1px;background: #f66639;left: 0;right: 0;margin: auto;bottom: 22px;}
+.footer_archeton h3{font-size: 30px;color: #fff;font-family: 'Montserrat', sans-serif;font-weight: 700;position: relative;padding-bottom: 52px;}
+.footer_archeton h3::after{display: block;content: "";position: absolute;width: 110px;height: 1px;background: #f66639;left: 0;right: 0;margin: auto;bottom: 22px;}
 .footer_archeton p{font-size: 14px;color: #fff;font-family: 'Montserrat', sans-serif;font-weight: 600;padding-bottom: 40px;margin-bottom: 0px;}
 .back_color_footer_last{background: #132745;}
-.footer_heading h5{font-size: 18px;color: #e7e7ee;font-family: 'Montserrat', sans-serif;font-weight: 600;position: relative;padding-bottom: 42px;padding-top: 70px;text-transform: uppercase;}
-.footer_heading h5::after{display: block;content: "";position: absolute;width: 80px;height: 1px;background: #f66639;left: 0;bottom: 20px}
+.footer_heading h4{font-size: 18px;color: #e7e7ee;font-family: 'Montserrat', sans-serif;font-weight: 600;position: relative;padding-bottom: 42px;padding-top: 70px;text-transform: uppercase;}
+.footer_heading h4::after{display: block;content: "";position: absolute;width: 80px;height: 1px;background: #f66639;left: 0;bottom: 20px}
 .footer_link_comm{}
 .footer_link_comm ul{text-decoration: none;list-style: none;}
 .footer_link_comm ul li{}
@@ -723,15 +723,15 @@ ul.sub-menu {display: none;position: relative;z-index: 99999;background: #fff;wi
 .footer_sec_link {padding: 20px 0;}
 .footer_sec_link li a {padding: 10px 10px;}
 .footer_archeton {max-width: 100%;padding: 15px 0 0 0;}
-.footer_archeton h4 {font-size: 24px;padding-bottom: 30px;}
-.footer_archeton h4::after{bottom: 15px;}
+.footer_archeton h3 {font-size: 24px;padding-bottom: 30px;}
+.footer_archeton h3::after{bottom: 15px;}
 .footer_archeton p{padding-bottom: 10px;}
 
 .footer_archeton_outer {border-top: 10px solid #f1f1f5;border-left: 10px solid #f1f1f5;border-right: 10px solid #f1f1f5;border-bottom: 0px solid #f1f1f5;}
 .footer_archeton_outer_2 {border-top: 0px solid #f1f1f5;border-left: 10px solid #f1f1f5;border-right: 10px solid #f1f1f5;border-bottom: 10px solid #f1f1f5;padding: 15px 15px;}
 .foo_padd {padding-left: 15px;}
-.footer_heading h5 {padding-bottom: 30px;padding-top: 30px;}
-.footer_heading h5::after{bottom: 15px;}
+.footer_heading h4 {padding-bottom: 30px;padding-top: 30px;}
+.footer_heading h4::after{bottom: 15px;}
 .Copyright {padding: 40px 0 0;}
 .scroll_top {padding: 00px 0 0;}
 #collapsibleNavbar {position: absolute;z-index: 99999;background: #f1f1f1;top: 60px;width: 100%;left: 0;right: 0;}
@@ -790,7 +790,7 @@ a.attech {margin-left: 8px;}
 START ABOUT SESION
 ===================*/
 .about_part_one{}
-.about_part_one p b{padding: 70px 141px; color: #939799;font-size: 20px;line-height: 30px;font-weight: 400;display: block;}
+.about_part_one p b{padding: 70px 141px; color: #f66639;font-size: 25px;line-height: 30px;font-weight: 700;display: block; text-align: center;}
 .sign{position: relative;}
 .team_member h6,
 .sign h6{font-size: 16px;font-weight: 600;color: #0e2235;}
@@ -828,10 +828,10 @@ END ABOUT SESION
 =====================================*/
 .form_rchive{padding-top: 45px;}
 .form_rchive input{width: 100%;height: 50px;padding: 0 20px;border: 1px solid #0e2235;margin-bottom: 15px;}
-.form_rchive textarea{width: 100%;padding: 20px 20px;height: 180px;border: 1px solid #0e2235;}
+.form_rchive textarea{width: 100%;padding: 20px 20px;height: 245px;border: 1px solid #0e2235;}
 .form_contact_us{padding-top: 20px;}
 .form_contact_us input{width: 100%;height: 50px;padding: 0 20px;border: 1px solid #0e2235;margin-bottom: 15px;}
-.form_contact_us textarea{width: 100%;padding: 20px 20px;height: 180px;border: 1px solid #0e2235;}
+.form_contact_us textarea{width: 100%;padding: 20px 20px;height: 245px;border: 1px solid #0e2235;}
 .arc{position: relative;}
 .arc_abu{position: absolute;top: 100%;left: 0;right: 0;width: 100%;height: 0;opacity: 0;background-color: rgb(14, 34, 53,0.7);overflow: hidden;transition: .5s ease, opacity .5s;}
 .arc:hover .arc_abu{opacity: 1;top: 0;height: 100%;}
@@ -848,7 +848,7 @@ font-family: 'Montserrat', sans-serif;font-weight: 600;text-transform: uppercase
         END achitecture SESION
 =====================================*/
 .contact_us_map iframe{width: 100%;height: 600px;}
-.left_side_con li{font-size: 14px;color: #0e2235;line-height: 30px;font-weight: 400;}
+.left_side_con li{font-size: 16px;color: #0e2235;line-height: 30px;font-weight: 500;}
 .left_side_con li:hover{font-weight: 500;font-size: 14px;color: #0e2235;line-height: 30px;cursor: pointer;font-family: 'Montserrat', sans-serif;}
 .left_side_con li span{width: 95px;text-transform: uppercase;display: inline-block;}
 .right_side_con li a{font-size: 14px;color: #b4b7b9;line-height: 30px;font-weight: 400;text-decoration: underline !important;cursor: pointer;}
